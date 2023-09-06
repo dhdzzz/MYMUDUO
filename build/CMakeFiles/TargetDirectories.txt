@@ -1,0 +1,3 @@
+/home/dhd/MYMUDUO/build/CMakeFiles/mymuduo.dir
+/home/dhd/MYMUDUO/build/CMakeFiles/edit_cache.dir
+/home/dhd/MYMUDUO/build/CMakeFiles/rebuild_cache.dir
